@@ -1,0 +1,9 @@
+streamlit>=1.22.0
+pandas
+numphy
+plotly
+datetime
+folium
+streamlit-folium
+statsmodels
+matplotlib
