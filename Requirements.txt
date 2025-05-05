@@ -2,8 +2,7 @@ streamlit>=1.22.0
 pandas
 numpy
 plotly
-datetime
+matplotlib
 folium
 streamlit-folium
 statsmodels
-matplotlib
