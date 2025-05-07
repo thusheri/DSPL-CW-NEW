@@ -4,5 +4,6 @@ numpy
 plotly
 matplotlib
 folium
+seaborn
 streamlit-folium
 statsmodels
