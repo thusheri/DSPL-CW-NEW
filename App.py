@@ -164,7 +164,7 @@ else:
                 <div class="metric-card">
                     <div class="metric-title">{metric} Growth</div>
                     <div class="metric-value">{growth:.2f}%</div>
-                    <small>From {earliest['Date']} to {latest['Date']}</small>
+                    <small++>From {earliest['Date']} to {latest['Date']}</small>
                 </div>
                 """, unsafe_allow_html=True)
         
